@@ -1,4 +1,4 @@
-# Jogo de Tabuleiro em POO
+# Jogo de Tabuleiro - POO
 
 ## Descrição
 Este é um projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO), onde implementamos um jogo de tabuleiro utilizando os conceitos de POO como herança, polimorfismo e encapsulamento. O jogo permite até 6 jogadores e possui casas especiais com regras específicas.
